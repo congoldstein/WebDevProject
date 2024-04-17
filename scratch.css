@@ -1,0 +1,50 @@
+
+h1 {
+    color: darkred;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    color: darkred;
+}
+
+ol {
+    color: darkred;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color:darkred;
+    font-style: italic;
+}
+
+p {
+    font-family: arial, sans-serif;
+    font-size: 23px;
+    text-decoration: underline;
+    color: maroon;
+
+}
+a {
+    font-size: 20px; /* Adjust the font size as desired */
+}
+
+.list {
+    position: relative;
+    left: 30px
+}
+
+.pic{
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+}
+
+.secret-link {
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    bottom: 500px
+}
